@@ -41,7 +41,7 @@
 ### (2.1). 成品(销售给客户的产品)
 
 * Make To Order 出货(按单)
-* Subcontract to Edgar 外发艾得格加工
+* Subcontract to XXX 外发XXX加工
 
 ### (2.2). 加工后产品(加工商交付的产品)
 
