@@ -23,10 +23,10 @@
 
 #### 按单出货
 * Make To Order 出货(按单)
-* Manufacture by Assembly 装配车间生产
+* Manufacture by XXX XXX车间生产
 
 #### 备库出货
-* Manufacture by Assembly 装配车间生产
+* Manufacture by XXX XXX车间生产
 
 ### (1.2). 原材料
 
@@ -57,3 +57,7 @@
 #### 备库购买
 * Buy (DM) 购买
 * Issue to Subcontractor 发料给外发加工厂商
+
+### (2.4). 自加工后发料给加工商(用以生产其它产品)
+- Manufacture by XXX XXX车间生产
+- Issue to Subcontractor 发料给外发加工厂商
