@@ -1,4 +1,4 @@
-# Summary
+# 目录
 
 * [前言](README.md)
 * [销售](SALE/README.md)
@@ -16,4 +16,5 @@
     <!-- * [设备类别](Maintenance/equipment_category.md) -->
     <!-- * [设备](Maintenance/quipment.md) -->
     <!-- * [保养](Maintenance/) -->
-* [Purchase Lead Time](PUR/purchase_lead_time.md)
+* [采购](PUR/README.md)
+  * [Purchase Lead Time](PUR/purchase_lead_time.md)
