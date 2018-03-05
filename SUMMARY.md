@@ -16,3 +16,4 @@
     <!-- * [设备类别](Maintenance/equipment_category.md) -->
     <!-- * [设备](Maintenance/quipment.md) -->
     <!-- * [保养](Maintenance/) -->
+* [Purchase Lead Time](PUR/purchase_lead_time.md)
