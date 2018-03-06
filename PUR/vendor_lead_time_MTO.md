@@ -1,4 +1,4 @@
-# MTO产品的采购订单的 Lead Time
+# MTO产品的采购订单的前置期
 
 ![Lead time of Make to Order Products](_images/vendor_lead_time_MTO.PNG)
 

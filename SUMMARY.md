@@ -18,6 +18,8 @@
     <!-- * [保养](Maintenance/) -->
 * [采购](PUR/README.md)
   * [Purchase Lead Time](PUR/purchase_lead_time.md)
-    * [手动创建采购单的 Lead Time](PUR/vendor_lead_time_Manual_PO.md)
-    * [按单出货(MTO)采购订单的 Lead Time](PUR/vendor_lead_time_MTO.md)
-    * [重订货规则的 Lead Time：获取产品的天数](PUR/op_lead_time_to_get_products.md)
+    * [手工创建的采购订单的前置期](PUR/vendor_lead_time_Manual_PO.md)
+    * [MTO产品的采购订单的前置期](PUR/vendor_lead_time_MTO.md)
+    * MTS产品的采购订单的前置期
+      * [通过设定 **获取产品的天数** 实现](op_lead_time_to_get_products.md)
+      * [通过设定 **采购产品的天数** 实现](op_lead_time_to_purchase_products.md)

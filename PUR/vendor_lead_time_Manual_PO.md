@@ -1,4 +1,4 @@
-# 手工创建的采购单的 Lead Time
+# 手工创建的采购订单的前置期
 
 ![Vendor Delivery Lead Time](_images/vendor_lead_time_Manual_PO.PNG)
 

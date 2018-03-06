@@ -1,4 +1,4 @@
-# 重订货规则的提前期：获取产品的天数
+# 重订货规则的前置期：获取产品的天数
 
 ![获取产品的天数](_images/reordering_rules_lead_time_Days_to_get_products.PNG)
 
