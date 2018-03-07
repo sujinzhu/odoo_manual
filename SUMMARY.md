@@ -4,6 +4,7 @@
 * [销售](SALE/README.md)
   * [不允许没有销售单的递送](SALE/shipment_without_SO.md)
   * [Delivery Lead Time](SALE/delivery_lead_time.md)
+  * [多公司环境前置期](SALE/inter_company_lead_time.md)
 * [制造](MRP/README.md)
   * [(需求)路线](MRP/Routes.md)
   * [使用(需求)路线](MRP/using_routes.md)
