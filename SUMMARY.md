@@ -8,6 +8,7 @@
 * [制造](MRP/README.md)
   * [(需求)路线](MRP/Routes.md)
   * [使用(需求)路线](MRP/using_routes.md)
+  * [Manufacturing Lead Time](MRP/manufacturing_lead_time.md)
   * [工程变更](PLM/ECO.md)
   * [应用制造模块的高级功能](MRP/adv_manufacturing.md)
     * [设定工作中心](MRP/setup_workcenter.md)
