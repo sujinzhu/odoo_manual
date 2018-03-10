@@ -99,4 +99,20 @@
 
 ### 外发加工
 
+(1). 公司制造提前期为2天
+
+![公司制造前置期](_images/manufacturing_lead_time9.PNG)
+
+(2). 公司销售前置期为1天
+
+![公司销售前置期](_images/manufacturing_lead_time2.PNG)
+
+(3). 客户前置期为20天，生产前置期为11天
+
+![客户前置期及生产前置期](_images/manufacturing_lead_time3.PNG)
+
+![销售单](_images/manufacturing_lead_time10.PNG)
+
+![出库单](_images/manufacturing_lead_time11.PNG)
+
 ## 备库出货产品

@@ -25,3 +25,4 @@
     * [MTS产品多少天以后获得产品](PUR/op_lead_time_to_get_products.md)
     * [MTS产品多少天以后开始采购](PUR/op_lead_time_to_purchase_products.md)
 * [财务](ACC/README.md)
+* [Glossary 术语表](glossary.md)

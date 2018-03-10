@@ -9,6 +9,6 @@ Procurement Order | 补货 | 需求单 |
 Order Point | 补货规则 | 重订货规则 | 
 Sales Safety Days* | 销售安全天数* | 公司销售前置期 | 公司销售提前期
 Purchase Lead Time* | 采购前置时间* | 公司采购前置期 | 公司采购提前时间
-Manufacturing Lead Time* | 生产前置时间* |
+Manufacturing Lead Time* | 生产前置时间* | |
 
 (*) 此项与你当前登录的公司有关
