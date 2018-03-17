@@ -5,7 +5,6 @@
 ![Equipment](_images/equipment2.PNG)
 ![Equipment](_images/equipment3.PNG)
 
-
 ## Expected Mean Time Between Failure
 
 **预计的平均故障间隔时间**：两次故障之间的时间预估。
