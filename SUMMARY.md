@@ -14,10 +14,10 @@
     * [设定工作中心](MRP/setup_workcenter.md)
     * [设定工艺路线](MRP/setup_routing.md)
     * [设定物料清单](MRP/setup_bom.md)
-  <!-- * [保养、维修](Maintenance/README.md) -->
+  * [保养、维修](Maintenance/README.md)
     <!-- * [设备类别](Maintenance/equipment_category.md) -->
-    <!-- * [设备](Maintenance/quipment.md) -->
-    <!-- * [保养](Maintenance/) -->
+    * [设备](Maintenance/quipment.md)
+    * [维护](Maintenance/Maintenance.md)
 * [采购](PUR/README.md)
   * [Purchase Lead Time](PUR/purchase_lead_time.md)
     * [手工创建的采购订单的前置期](PUR/vendor_lead_time_Manual_PO.md)
@@ -25,4 +25,5 @@
     * [MTS产品多少天以后获得产品](PUR/op_lead_time_to_get_products.md)
     * [MTS产品多少天以后开始采购](PUR/op_lead_time_to_purchase_products.md)
 * [财务](ACC/README.md)
+* [Lead Time](LeadTime.md)
 * [Glossary 术语表](glossary.md)
