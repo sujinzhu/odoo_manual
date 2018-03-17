@@ -16,7 +16,7 @@
     * [设定物料清单](MRP/setup_bom.md)
   * [保养、维修](Maintenance/README.md)
     <!-- * [设备类别](Maintenance/equipment_category.md) -->
-    * [设备](Maintenance/quipment.md)
+    * [设备](Maintenance/equipment.md)
     * [维护](Maintenance/Maintenance.md)
 * [采购](PUR/README.md)
   * [Purchase Lead Time](PUR/purchase_lead_time.md)

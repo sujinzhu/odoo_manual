@@ -1,41 +1,51 @@
 # 使用(需求)路线
 
-*在产品上设定路线。*
+在产品上设定路线。
 
 ## (0). 贸易产品
 
+通过购买来直接满足客户要求的产品。
+
 ### 按单出货
+
 交期和数量两个方面，供应商都能满足来自客户的要求，则按单出货最为有利：便于跟踪、无需保留库存。
 产品需要以下路线组合以满足需求：
+
 * Buy (DM) 购买
 * Make To Order 出货(按单)
 
 ## 备库出货
+
 交期和数量两个方面，供应商 **不能** 满足来自客户的要求，比如：
+
 * 最小包装量或起订量大于客户的承受意愿
 * 交期比客户要求的更长
 
 因此需要备有一定量的库存以满足交期要求，或者订货量超过客户单次需求而有剩余库存。
 这种情形，产品需要以下路线组合以满足需求：
+
 * Buy (DM) 购买
 
 ## (1). 自加工产品
 
+通过制造、加工、组装来满足客户要求的产品。通常需要购买某些材料来完成制造。
+
 ### (1.1). 成品
 
-#### 按单出货
-* Make To Order 出货(按单)
-* Manufacture by XXX XXX车间生产
-
-#### 备库出货
-* Manufacture by XXX XXX车间生产
+* **按单出货**
+  * Make To Order 出货(按单)
+  * Manufacture by XXX XXX车间生产
+* **备库出货**
+  * Manufacture by XXX XXX车间生产
 
 ### (1.2). 原材料
 
 #### 按单购买
+
 * Buy(DM)(MTO) 购买(按单)
 
 #### 备库购买
+
 * Buy (DM) 购买
 
 ## (2). 外发加工产品
@@ -52,14 +62,15 @@
 
 ### (2.3). 原材料(外发给加工商)
 
-#### 按单购买
-* Buy(DM)(MTO) 购买(按单)
-* Issue to Subcontractor(MTO) 发料给外发加工厂商(按单)
+* **按单购买**
+  * Buy(DM)(MTO) 购买(按单)
+  * Issue to Subcontractor(MTO) 发料给外发加工厂商(按单)
 
-#### 备库购买
-* Buy (DM) 购买
-* Issue to Subcontractor 发料给外发加工厂商
+* **备库购买**
+  * Buy (DM) 购买
+  * Issue to Subcontractor 发料给外发加工厂商
 
 ### (2.4). 自加工后发料给加工商(用以生产其它产品)
-- Manufacture by XXX XXX车间生产
-- Issue to Subcontractor 发料给外发加工厂商
+
+* Manufacture by XXX XXX车间生产
+* Issue to Subcontractor 发料给外发加工厂商
