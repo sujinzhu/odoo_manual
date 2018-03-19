@@ -16,9 +16,7 @@ Path: PLM module
 
 > from Moritz:
 >> New Product Introduction: 适用于未进入量产阶段的产品的工程变更
-
 >> Winding In production change orders: 适用于已量产的绕线产品的工程变更
-
 >> Plastic in Production change orders: 适用于已量产的注塑产品的工程变更
 
 (2). Click “CREATE”
@@ -26,7 +24,7 @@ Path: PLM module
 
 ![新建ECO](_images/ECO1.PNG)
 
-(3).	Give a meaningful name, and select the product this ECO for
+(3). Give a meaningful name, and select the product this ECO for
 输入一个有适当意义的名称，并选择工程变更的相应产品
 
 ![选择产品及BOM和工艺](_images/ECO2.PNG)
@@ -49,17 +47,17 @@ OR, Drag ECO board from “New” to “In Process” to start the flowing.
 
 ![开始规划变更](_images/ECO4.PNG)
 
-(5).	Click “START NEW REVISION”
+(5). Click “START NEW REVISION”
 点击“开启新版本”
 
 ![开启新版本](_images/ECO5.PNG)
 
-(6).	Click “Bill of Material Rev :x”
+(6). Click “Bill of Material Rev :x”
 点击“物料清单 版本 :x”
 
 ![打开新版BOM](_images/ECO6.PNG)
 
-(7).	Update the BOM
+(7). Update the BOM
 更新物料清单
 
 ![打开新版BOM](_images/ECO7.PNG)
@@ -67,17 +65,17 @@ OR, Drag ECO board from “New” to “In Process” to start the flowing.
 click 'Save'.
 点击‘保存’。
 
-(8).	Click current ECO to return
+(8). Click current ECO to return
 点击当前的ECO以返回
 
 ![返回ECO](_images/ECO8.PNG)
 
-(9).	Click “BOM CHANGES” to review what has changed
+(9). Click “BOM CHANGES” to review what has changed
 点击“BOM变更”以查看到底改了什么内容
 
 ![返回ECO](_images/ECO9.PNG)
 
-(10).	Drag ECO board from “In Process” to “Validated” for review
+(10). Drag ECO board from “In Process” to “Validated” for review
 将工程变更单从“在处理“拖动到”验证“以进入评审环节
 
 ![完成ECO规划](_images/ECO10.PNG)
@@ -97,5 +95,5 @@ Then move ECO to the next stage.
 
 ## Apply ECO
 
-(12).	Open ECO and click “APPLY CHANGES”
+(12). Open ECO and click “APPLY CHANGES”
 打开工程变更单并点击“应用变更”

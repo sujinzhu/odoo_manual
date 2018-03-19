@@ -13,5 +13,6 @@
 ## [Glossary 术语表](glossary.md)
 
 ## 主要贡献者
+
 * [苏金柱](mailto:13686017469@163.com)
 * Amy
