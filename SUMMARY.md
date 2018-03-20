@@ -24,5 +24,8 @@
   * [设备](Maintenance/equipment.md)
   <!-- * [设备类别](Maintenance/equipment_category.md) -->
 * [财务](ACC/README.md)
+* [人力资源](HR/README.md)
+  * [人事档案](HR/employee.md)
+  * [招聘](HR/recruitment.md)
 * [Lead Time](LeadTime.md)
 * [Glossary 术语表](glossary.md)
