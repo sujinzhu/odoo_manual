@@ -22,7 +22,6 @@
     * [设定物料清单](MRP/setup_bom.md)
 * [维护](Maintenance/Maintenance.md)
   * [设备](Maintenance/equipment.md)
-  <!-- * [设备类别](Maintenance/equipment_category.md) -->
 * [财务](ACC/README.md)
 * [人力资源](HR/README.md)
   * [人事档案](HR/employee.md)

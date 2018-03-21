@@ -4,7 +4,7 @@
 
 ![休假类型](_images/holiday.PNG)
 
-路径：休假模块 -> 配置 
+路径：休假模块 -> 配置
 
 ![假期类型：新建](_images/holiday1.PNG)
 
@@ -19,7 +19,7 @@
 
 路径：休假模块 -> 待批准请假 -> 假期配置
 
-![假期配置](_images/holiday2.PNG) 
+![假期配置](_images/holiday2.PNG)
 
 * 录入假期`说明`
 * 选择`休假类型`

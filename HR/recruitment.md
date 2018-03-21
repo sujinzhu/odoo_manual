@@ -19,3 +19,16 @@
 ## [部门](department.md)
 
 ## [职位](job.md)
+
+## 启动招聘
+
+![启动招聘](_images/recruitment.PNG)
+
+* 当职位有空缺，需要招聘新人时，在职位页面的左上角点击`启动招聘`按钮，以启动该职位的招聘。
+* 点击职位页面右上角的`发布在网站上`可以将招聘信息公开发布到网站上。
+
+![发布招聘信息](_images/recruitment1.PNG)
+
+* 点击红色的`Unpublished`按钮以发布该职位招聘信息，然后按钮会变成绿色的`Published`按钮。
+
+![发布招聘信息](_images/recruitment2.PNG)
