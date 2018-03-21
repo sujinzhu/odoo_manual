@@ -27,6 +27,7 @@
 * [人力资源](HR/README.md)
   * [人事档案](HR/employee.md)
   * [招聘](HR/recruitment.md)
+  * [合同](HR/contract.md)
   * [部门](HR/department.md)
   * [职位](HR/job.md)
   * [调查](HR/survey.md)
