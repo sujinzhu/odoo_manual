@@ -11,5 +11,6 @@ Sales Safety Days* | 销售安全天数* | 公司销售前置期 | 公司销售�
 Purchase Lead Time* | 采购前置时间* | 公司采购前置期 | 公司采购提前时间
 Manufacturing Lead Time* | 生产前置时间* | |
 Job Position | 职位 | 工作岗位 |
+Product Category | 产品类别 | 内部分类 | 产品分类
 
 (*) 此项与你当前登录的公司有关
