@@ -1,45 +1,44 @@
 # 产品类别
 
-* FG
-  * Assembly
-    * Customer1
+* FG (成品)
+  * Assembly (装配)
+    * Customer1 (客户)
     * ...
-  * Cable
-    * Customer1
+  * Cable (线束)
+    * Customer1 (客户)
     * ...
-  * Plastic
-    * Customer1
+  * Plastic (注塑)
+    * Customer1 (客户)
     * ...
-* SFG
-  * Assembly
-    * Customer1
+* SFG (半成品)
+  * Assembly (装配)
+    * Customer1 (客户)
     * ...
-  * Cable
-    * Customer1
+  * Cable (线束)
+    * Customer1 (客户)
     * ...
-  * Plastic
-    * Customer1
+  * Plastic (注塑)
+    * Customer1 (客户)
     * ...
-* RM
-  * Accessory
-  * Connector
-  * Metal
-  * Metal Parts
-  * Packing
-  * Plastic Parts
-  * Resin
-  * Wire Harness
-  * Indirect
+* RM (原料)
+  * Accessory (配件)
+  * Metal (金属材料)
+  * Metal Parts (金属件)
+  * Packing (包材)
+  * Plastic Parts (塑胶件)
+  * Resin (胶料)
+  * Wire Harness (线束)
+  * Indirect (辅料)
   * ...
-* Trade
-  * Customer1
+* Trade (贸易类)
+  * Customer1 (客户)
   * ...
-* Others
-  * Equipment
-  * Expenses
-  * Office
-  * services
-  * Hardware
-  * Fixed Assets
-  * Consumable
-  * Mold
+* Others (其它)
+  * Equipment (设备)
+  * Expenses (费用)
+  * Office (办公用品)
+  * services (服务)
+  * Hardware (硬件)
+  * Fixed Assets (固定资产)
+  * Consumable (易耗品)
+  * Mold (模具)
