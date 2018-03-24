@@ -36,6 +36,7 @@
 * [维护](Maintenance/Maintenance.md)
   * [设备](Maintenance/equipment.md)
 * [财务](ACC/README.md)
+  * [固定资产](ACC/asset.md)
 * [人力资源](HR/README.md)
   * [人事档案](HR/employee.md)
   * [招聘](HR/recruitment.md)
