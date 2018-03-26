@@ -5,12 +5,11 @@ from Angel at 2018-02-27:
 > Hi, guys
 
 > I finger some of our SHIPMENTS are without SO in our ERP system. It’s not allowed!
-
-  > 1.	PMC should prepare the MO according to the SO. For the wastage which should come from R&D department , should be set up in ODOO / BOM SECTION .  the production department should produce according to the MO.
-  > 2.	While we have more qty after full QC inspection. Customer service / FELIX should ask the customer if they want it. If yes, CUSTOMER SERVICE MANAGER is allowed to modify the DO.  Accounting issue the PI according to the DO. While FELIX is not available , I or GENE will have to do the modification in the DO base on the email confirmation from FELIX or MORITZ.
-  > 3.	ODOO records should be CORRECT.
-  > 4.	For coming next few months , PMC / LANCY should double confirm the Shipment Notification before shipment and make sure the system data is correct. Jane should follow up accordingly too.
-  > 5.	SHIPMENTS WITHOUT SO IS NOT ALLOWED!
+  > 1. PMC should prepare the MO according to the SO. For the wastage which should come from R&D department , should be set up in ODOO / BOM SECTION .  the production department should produce according to the MO.
+  > 2. While we have more qty after full QC inspection. Customer service / FELIX should ask the customer if they want it. If yes, CUSTOMER SERVICE MANAGER is allowed to modify the DO.  Accounting issue the PI according to the DO. While FELIX is not available , I or GENE will have to do the modification in the DO base on the email confirmation from FELIX or MORITZ.
+  > 3. ODOO records should be CORRECT.
+  > 4. For coming next few months , PMC / LANCY should double confirm the Shipment Notification before shipment and make sure the system data is correct. Jane should follow up accordingly too.
+  > 5. SHIPMENTS WITHOUT SO IS NOT ALLOWED!
 
 我发现有些 **递送** 并没有相应的ERP系统的销售单，这是不允许的！
 

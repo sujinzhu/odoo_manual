@@ -85,5 +85,7 @@
 * 对于`自动确认资产`类别的资产，过账是自动的。
 
 ![资产折旧](_images/asset5.PNG)
+
 ![资产折旧](_images/asset6.PNG)
+
 ![资产折旧](_images/asset7.PNG)
