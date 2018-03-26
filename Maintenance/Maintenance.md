@@ -4,11 +4,13 @@
 
 ![仪表板](_images/Maintenance5.PNG)
 
-通过点击设备页面的 _维护_ 按钮，可用查看该设备的维护记录。
+## 设备类别
 
-![设备：维护](_images/equipment5.PNG)
+适当对设备进行分类，有助于设备管理的有序进行。
 
-![设备维护记录](_images/equipment6.PNG)
+![设备类别](_images/equipment9.PNG)
+
+## [设备](equipment.md)
 
 ## 维护日历
 

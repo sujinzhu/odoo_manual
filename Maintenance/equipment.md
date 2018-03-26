@@ -4,6 +4,14 @@
 
 ![设备看板](_images/equipment4.PNG)
 
+通过点击设备页面的 _维护_ 按钮，可用查看该设备的维护记录。
+
+![设备：维护](_images/equipment5.PNG)
+
+![设备维护记录](_images/equipment6.PNG)
+
+## 新增设备
+
 ![设备](_images/equipment1.PNG)
 
 * 选择默认的 `维护团队`
@@ -35,9 +43,3 @@
 ![MTBF & MTTR 计算模型](_images/Maintenance2.png)
 
 ![MTBF & MTTR 计算实例](_images/Maintenance3.png)
-
-## 设备类别
-
-适当对设备进行分类，有助于设备管理的有序进行。
-
-![设备类别](_images/equipment9.PNG)
