@@ -1,5 +1,5 @@
 {
-  "title": "Odoo用户手册"
+  "title": "Odoo用户手册",
   "plugins": ["theme-api"],
   "pluginsConfig": {
     "theme-api": {
