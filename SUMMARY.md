@@ -27,6 +27,7 @@
   * [退货单](PMC/return_to_vendor.md)
   * [领料单](PMC/material_requistion.md)
 * [制造](MRP/README.md)
+  * [计划生产](MRP/manufacturing.md)
   * [Manufacturing Lead Time](MRP/manufacturing_lead_time.md)
   * [工程变更](PLM/ECO.md)
   * [应用制造模块的高级功能](MRP/adv_manufacturing.md)
