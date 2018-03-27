@@ -33,6 +33,7 @@
     * [设定工作中心](MRP/setup_workcenter.md)
     * [设定工艺路线](MRP/setup_routing.md)
     * [设定物料清单](MRP/setup_bom.md)
+  * [OEE](MRP/oee.md)
 * [维护](Maintenance/Maintenance.md)
   * [设备](Maintenance/equipment.md)
 * [财务](ACC/README.md)
