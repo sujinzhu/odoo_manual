@@ -48,5 +48,6 @@
   * [部门](HR/department.md)
   * [职位](HR/job.md)
   * [调查](HR/survey.md)
+  * [费用报销](HR/expense.md)
 * [Lead Time](LeadTime.md)
 * [Glossary 术语表](glossary.md)
