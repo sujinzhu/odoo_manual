@@ -11,6 +11,7 @@
     * [MTO产品的采购订单的前置期](PUR/vendor_lead_time_MTO.md)
     * [MTS产品多少天以后获得产品](PUR/op_lead_time_to_get_products.md)
     * [MTS产品多少天以后开始采购](PUR/op_lead_time_to_purchase_products.md)
+  * [Purchase Agreement](PUR/purchase_agreement.md)
 * [存货](INV/README.md)
   * [产品类别](INV/category.md)
   * [产品](INV/product.md)
