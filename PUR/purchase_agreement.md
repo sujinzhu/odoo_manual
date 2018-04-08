@@ -1,5 +1,7 @@
 # Purchase Agreement
 
+path: Purchases module -> Purchase -> Purchase Agreements
+
 ![Blanket Order](_images/purchase_agreement.PNG)
 
 Click `CREATE` to create a new Purchase Agreement.
@@ -22,13 +24,13 @@ First open the Blanket Order, then click `New Quotation`, or click `RFQs/Orders`
 
 ![New Quotation](_images/purchase_agreement2.PNG)
 
-Just like other quotation, the differences are:
+Just like other quotation, the new quotation appears with differences:
 
 * Vendor
 * Vendor Reference
 * Products
 
-the above items have been prepared from Blanket Order. You just need key in `Quantity` and confirm the quotation.
+the above items have been prepared from Blanket Order. You just need key in `Quantity`, `Ordered Date` and confirm the quotation.
 
 When you back to Blanket Order, you can find `Order Quantities` has added, and `RFQs/Orders` quantity also added.
 
