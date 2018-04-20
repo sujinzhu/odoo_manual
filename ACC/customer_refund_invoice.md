@@ -28,7 +28,7 @@
 
 * 若非整单退货，请修改数量。
 * 选择正确的退货日期。(`Invoice Date`)
-* 点击``以确认退款单。
+* 点击`VALIDATE`以确认退款单。
 
 (3.2) `Cancel: create refund and reconcile`
 
