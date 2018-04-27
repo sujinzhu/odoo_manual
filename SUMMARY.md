@@ -42,6 +42,7 @@
 * [财务](ACC/README.md)
   * [固定资产](ACC/asset.md)
   * [客户退款](ACC/customer_refund_invoice.md)
+  * [供应商退款](ACC/vendor_refund_bill.md)
   * [业务伙伴银行账户](ACC/res.partner.bank.md)
 * [人力资源](HR/README.md)
   * [人事档案](HR/employee.md)
