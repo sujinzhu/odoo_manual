@@ -21,9 +21,9 @@ Finished Product | Edgar | Make To Order | Supply by Edgar (MTO) | Manufacture
 Finished Product | Sankyo | Make To Order | Supply by Sankyo (MTO) | Manufacture
 Finished Product | Jiajie | Make To Order | Supply by Jinjia (MTO) | Manufacture
 Raw Material | | Make To Order | Get from stock (MTO) | Buy
-Raw Material | | [MTS][1] | Get from stock | Buy
+Raw Material | | MTS[^1] | Get from stock | Buy
 Semi Finished Product | Plastic | Make To Order | Supply by Plastic (MTO) | Manufacture
-Semi Finished Product | Plastic | [MTS][1] | Supply by Plastic (MTO) | Manufacture
+Semi Finished Product | Plastic | MTS[^1] | Supply by Plastic (MTO) | Manufacture
 
 ## 5. Make to Order
 
@@ -58,4 +58,4 @@ For those products that are used in XXX and supply by DG/Stock, this rule or the
 
 For those products that are bought from supplier directly **must** choose this rule.
 
-[1]: all MTS route need OP to trigger
+[^1]: all MTS route need OP to trigger
