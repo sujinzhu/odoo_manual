@@ -15,3 +15,7 @@
 ![Bank Account](_images/res.partner.bank2.PNG)
 
 (4). 私账则应该找到相应联系人并建立（没有联系人的，可以在合作伙伴页面创建）。
+
+![Bank Account](_images/res.partner.bank3.PNG)
+
+(5). `银行`一栏应该填写开户行的准确信息。
